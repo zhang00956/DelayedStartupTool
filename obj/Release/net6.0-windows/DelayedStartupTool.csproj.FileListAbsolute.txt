@@ -1,0 +1,5 @@
+D:\YDcloudSYN\build_tools\DelayedStartupTool_1.0.9\DelayedStartupTool_New\obj\Release\net6.0-windows\DelayedStartupTool.csproj.AssemblyReference.cache
+D:\YDcloudSYN\build_tools\DelayedStartupTool_1.0.9\DelayedStartupTool_New\obj\Release\net6.0-windows\DelayedStartupTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\YDcloudSYN\build_tools\DelayedStartupTool_1.0.9\DelayedStartupTool_New\obj\Release\net6.0-windows\DelayedStartupTool.AssemblyInfoInputs.cache
+D:\YDcloudSYN\build_tools\DelayedStartupTool_1.0.9\DelayedStartupTool_New\obj\Release\net6.0-windows\DelayedStartupTool.AssemblyInfo.cs
+D:\YDcloudSYN\build_tools\DelayedStartupTool_1.0.9\DelayedStartupTool_New\obj\Release\net6.0-windows\DelayedStartupTool.csproj.CoreCompileInputs.cache
